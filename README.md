@@ -16,8 +16,9 @@ Content-Type: application/json
 
 {
   "status": 200,
+  "message": "OK",
   "data": {
-    "name": "Kiry Ratanak",
+    "full_name": "Kiry Ratanak",
     "role": "Full Stack Developer",
     "location": "Phnom Penh, Cambodia",
     "study_at": "ISTAD",
@@ -27,7 +28,7 @@ Content-Type: application/json
       </pre>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamNyc2R4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamNyc2R4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
     </td>
   </tr>
 </table>
@@ -35,5 +36,27 @@ Content-Type: application/json
 ## My Tech Stack
 | Frontend | Backend | Tools |
 | :--- | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+| 🌐 HTML5, CSS3 | ⚙️ C++, Java | 🛠 Git, GitHub |
+| ⚡ JavaScript | 🍃 Spring Boot | 🐳 Docker |
+
+## My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KiryRatanak&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiryRatanak&layout=compact&theme=tokyonight" width="300" />
+</div>
+
+## Contact Me
+<div align="center">
+  <a href="https://facebook.com/ratanak.34">
+    <img src="https://img.shields.io/badge/FACEBOOK-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/your-username">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
+<br />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=006400&height=100&section=footer" width="100%" />
